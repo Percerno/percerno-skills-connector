@@ -1,0 +1,32 @@
+{
+  "name": "percerno-skills",
+  "version": "0.1.0",
+  "description": "420+ vetted Agent Skills run in EU sandboxes: real Office files, OCR and tested business methods from any request.",
+  "author": {
+    "name": "Percerno",
+    "url": "https://skills.percerno.ai"
+  },
+  "homepage": "https://skills.percerno.ai",
+  "repository": "https://github.com/Percerno/percerno-skills-connector",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "mcp",
+    "pptx",
+    "docx",
+    "xlsx",
+    "pdf",
+    "ocr",
+    "eu"
+  ],
+  "mcpServers": {
+    "percerno-skills": {
+      "type": "http",
+      "url": "https://skills.percerno.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${PERCERNO_TOKEN}"
+      }
+    }
+  },
+  "privacyPolicyUrl": "https://skills.percerno.ai/privacy"
+}
