@@ -1,6 +1,6 @@
 {
   "name": "percerno",
-  "description": "Percerno Skills: one connector for 420+ vetted Agent Skills run in EU sandboxes.",
+  "description": "Percerno Skills: make any AI assistant deliver real Office files, run in EU sandboxes.",
   "owner": {
     "name": "Percerno",
     "url": "https://skills.percerno.ai"
@@ -9,7 +9,7 @@
     {
       "name": "percerno-skills",
       "source": "./",
-      "description": "420+ vetted Agent Skills run in EU sandboxes: real Office files, OCR and tested business methods."
+      "description": "Make your assistant deliver: PowerPoint, Word, Excel, PDF and OCR, plus convert, merge, compare and large-CSV jobs, every skill tested. Runs in EU sandboxes."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "percerno-skills",
   "version": "0.1.0",
-  "description": "420+ vetted Agent Skills run in EU sandboxes: real Office files, OCR and tested business methods from any request.",
+  "description": "Your AI assistant can talk; this makes it deliver. PowerPoint, Word, Excel, PDF and OCR, plus convert, merge, compare and large-CSV jobs, every skill tested to deliver. Runs in EU sandboxes.",
   "author": {
     "name": "Percerno",
     "url": "https://skills.percerno.ai"
@@ -17,6 +17,8 @@
     "xlsx",
     "pdf",
     "ocr",
+    "csv",
+    "office",
     "eu"
   ],
   "mcpServers": {
