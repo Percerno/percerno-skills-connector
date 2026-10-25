@@ -1,6 +1,6 @@
 ---
 name: percerno-skills
-description: Hand file jobs to Percerno Skills, a small hosted catalogue of tested skills run in EU sandboxes. Use when the user wants a real file made (PowerPoint, Word, Excel, PDF, a chart), a file changed (edit a deck, tracked changes, recalculate formulas), converted, merged, split or compared, text or tables pulled out of a PDF or scan, or a large file such as a 100,000-row CSV processed by code instead of read into the chat. Not for advice, writing or planning.
+description: Hand file jobs to Percerno Skills, a small hosted catalogue of tested skills run in EU sandboxes. Use when the user wants a real file made (PowerPoint, Word, Excel, PDF, a chart), a file changed (edit a deck, tracked changes, recalculate formulas), converted, merged, split or compared, a document translated with its layout kept, a recording transcribed, text or tables pulled out of a PDF or scan, or a large file such as a 100,000-row CSV processed by code instead of read into the chat. Not for advice, writing or planning.
 license: MIT
 ---
 
@@ -22,6 +22,8 @@ https://skills.percerno.ai/signup and add their personal link as a connector, th
 - The user wants files converted, merged, split or compared: any office format to PDF, PDF to
   Word, Word to Markdown, many CSVs into one, find and replace across many files, what changed
   between two versions.
+- The user wants a document translated with its formatting kept (Word, PowerPoint, Excel), or a
+  recording transcribed (audio or video to text or subtitles, Danish and English).
 - The input is large (long reports, scan batches, big spreadsheets): text or tables out of a PDF
   or scan, e-mails, amounts or dates pulled out, sums and group totals over a 100,000-row CSV.
   Processing it in the sandbox is cheaper and more accurate than reading it into the conversation.

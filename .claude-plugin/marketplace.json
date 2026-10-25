@@ -9,7 +9,7 @@
     {
       "name": "percerno-skills",
       "source": "./",
-      "description": "Make your assistant deliver: PowerPoint, Word, Excel, PDF and OCR, plus convert, merge, compare and large-CSV jobs, every skill tested. Runs in EU sandboxes."
+      "description": "Make your assistant deliver: PowerPoint, Word, Excel, PDF and OCR, transcription and translation, plus convert, merge, compare and large-CSV jobs, every skill tested. Runs in EU sandboxes."
     }
   ]
 }
