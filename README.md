@@ -8,13 +8,18 @@ catalogue, security verdicts and gate results are at https://skills.percerno.ai.
 ## What you get
 
 - **Real files from a chat:** PowerPoint decks, Word documents and letters, Excel sheets with
-  formulas and charts, PDFs read, filled or converted, OCR of scanned documents.
+  formulas and charts, designed PDF reports and invoices, PDFs read, filled or converted.
 - **Changes to files you have:** a contract redlined as tracked changes by a named reviewer,
   with a redline PDF; table of contents, numbered headings and page numbers on a document; a
   deck rebuilt in your company template; slides cleaned up before sending; every formula in a
   workbook recalculated and checked; pivot tables and native charts on your sheet.
 - **One letter per person:** a letter template and a list of people become one letter each,
   as Word or PDF. Nothing is sent.
+- **Recordings to text:** audio or video transcribed with timestamps, as text, Markdown or
+  subtitles (SRT/VTT), Danish and English speech.
+- **Documents translated, layout kept:** a Word document, deck or workbook comes back in another
+  language with its formatting, tables and slides intact, plus a PDF to check.
+- **Scans made searchable:** scanned pages to text or a searchable PDF (Danish and English OCR).
 - **Office jobs nobody can do by typing:** convert between formats, merge or split files, find
   and replace across many files, pull e-mails, amounts and dates out of a file, totals over a
   100,000-row CSV, what changed between two versions of a document.
